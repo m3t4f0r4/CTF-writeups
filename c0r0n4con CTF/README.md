@@ -173,7 +173,7 @@ Therefore we have the following:
 User: fwhibbit
 Password: rabbit
 ```
-Finally we see that our private key has been hashed with an instruction called keccack256
+Finally we see that our private key has been hashed with an instruction called keccak256
 ```
 keccak256(*0x40, ((uint256)(((int256)var5) + ((int256)var7))) - *0x40)
 ```
@@ -190,7 +190,7 @@ operation * 0x40 - * 0x40 is redundant so the instruction would finally look lik
 ```
 keccak256(*par2)
 ```
-* par2 is the password so the flag is: flag{keccack256(rabbit)}
+* par2 is the password so the flag is: flag{keccak256(rabbit)}
 
 ## DNACovid19 (100 points)
 
