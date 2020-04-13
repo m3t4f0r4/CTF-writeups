@@ -194,9 +194,9 @@ keccak256(*par2)
 
 ## DNACovid19 (100 points)
 
-En este reto me b·se en la secuencia binaria de DNA que podemos encontrar en [ctf-katana](https://github.com/JohnHammond/ctf-katana)
+En este reto me b√°se en la secuencia binaria de DNA que podemos encontrar en [ctf-katana](https://github.com/JohnHammond/ctf-katana)
 
-![DNA](https://github.com/m3t4f0r4/CTF-writeups/blob/master/c0r0n4con/DNACovid19/coding.jpg)
+![DNA](https://github.com/m3t4f0r4/CTF-writeups/blob/master/c0r0n4con%20CTF/DNACovid19/coding.jpg)
 
 I made a little script to decode the DNA Code
 ```
