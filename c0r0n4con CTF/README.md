@@ -224,4 +224,4 @@ It returns a Base32 which we decode and we will get the flag
 
 flag{MuRcIeLaG0_pAnGoL1n}
 
-# Secure PWD artifact (300 points)
+## Secure PWD artifact (300 points)
