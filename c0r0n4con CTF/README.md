@@ -199,7 +199,7 @@ In this challenge I used the DNA binary sequence that we can find in [ctf-katana
 
 ![DNA](https://github.com/m3t4f0r4/CTF-writeups/blob/master/c0r0n4con%20CTF/DNACovid19/coding.jpg)
 
-I made a little script to decode the DNA Code
+with this script we can decode the DNA code
 ```
 import string
 
